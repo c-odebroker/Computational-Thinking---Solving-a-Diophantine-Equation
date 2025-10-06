@@ -13,7 +13,7 @@ Program prints out y_value and rounded y_value for what x_value is for second li
 Program prints out rounded result of y_value minus rounded y_value to 5 decimal for third line.
 
 
-~To Run The Code You Will Need To Follow The Instruction In The Terminal Upon Running The Program~
+To Run The Code You Will Need To Follow The Instruction In The Terminal Upon Running The Program
 
 Note: Program has a domain for input no greater than 5 and no smaller than -5,
 any number out of this range will cause Value Error,
